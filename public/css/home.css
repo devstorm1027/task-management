@@ -1,0 +1,33 @@
+.task-name {
+	position: relative;
+	padding: 0px !important;
+}
+.edit-link {
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    color: #333;
+    padding: 8px;
+}
+.edit-link:hover {
+	color: #333;
+    text-decoration: none; 
+
+}
+.input-task-name {
+    width: 26%;
+    display: inline-table;
+}
+.input-group .duedate {
+	float: none;
+}
+div #datepicker {
+	width: 23%;
+    display: inline-table;
+}
+#deleteTask {
+	width: 100%;
+}
+.submit-btn {
+	padding-left: 0px;
+}
